@@ -1,0 +1,62 @@
+.hamburger-menu {
+    display: none;
+}
+
+.burger {
+    position: absolute;
+    top: 25px;
+    left: 400px;
+}
+
+.menu-box {
+    display: none;
+    margin-left: -24px;
+    white-space: nowrap;
+}
+
+.menu-hamburger-item {
+    margin-top: 20px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #22343D;
+}
+
+.menu-hamburger-buttons {
+    margin-top: 24px;
+}
+
+.hamburger-btn-sign-in {
+    padding: 10px 22px 9px 25px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #22343D;
+    border: 1px solid #BCD0E5;
+    border-radius: 4px;
+}
+
+.hamburger-btn-sign-up {
+    margin-top: 24px;
+    padding: 10px 22px 9px 25px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    background-color: #02897A;
+    border: 1px solid #02897A;
+    border-radius: 4px;
+}
+
+.hamburger-btn-sign-up a {
+    color: #FFF;
+}
+
+.hamburger-switcher {
+    margin-top: 24px;
+
+}

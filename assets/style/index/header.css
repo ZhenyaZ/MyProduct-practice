@@ -1,0 +1,139 @@
+.header {}
+
+.logo {
+    margin-top: 19px;
+}
+
+.menu {
+    display: flex;
+    margin-left: 415px;
+    margin-top: -36px;
+}
+
+.menu-item {
+    margin-left: 20px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #22343D;
+}
+
+#menu-item-first {
+    margin-left: 0px;
+    font-weight: 600;
+}
+
+.nav-buttons {
+    display: flex;
+    margin-left: 24px;
+}
+
+.btn-sign-in {
+    margin-top: -8px;
+    padding: 10px 22px 9px 25px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #22343D;
+    border: 1px solid #BCD0E5;
+    border-radius: 4px;
+
+}
+
+.btn-sign-up {
+    margin-left: 24px;
+    margin-top: -8px;
+    padding: 10px 22px 9px 25px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    background-color: #02897A;
+    border: 1px solid #02897A;
+    border-radius: 4px;
+}
+
+.btn-sign-up a {
+    color: white;
+}
+
+.switcher-nav {
+    margin-left: 24px;
+}
+
+/* HEADER LINE */
+.header-line {}
+
+.header-line-text {
+    margin-top: 169px;
+}
+
+.header-line-title {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: #22343D;
+}
+
+.header-line-subtitle {
+    margin-top: 18px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+
+    color: #22343D;
+}
+
+.header-line-btn {
+    display: flex;
+    margin-top: 45px;
+}
+
+.header-line-btn-start {
+    width: 175px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    background-color: #02897A;
+    border: 1px solid #02897A;
+    border-radius: 4px;
+}
+
+.header-line-btn-start a {
+    color: #FFF;
+}
+
+.header-line-btn-watch {
+    margin-top: 15px;
+    margin-left: 30px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #02897A;
+}
+
+.header-line-btn-watch a {
+    color: #02897A;
+}
+
+.header-line-img {
+    margin-left: 504px;
+    margin-top: -430px;
+}
+
+.header-line-mini-img {
+    display: none;
+    margin-top: 29px;
+}

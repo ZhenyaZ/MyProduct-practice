@@ -1,0 +1,135 @@
+.footer {
+    display: flex;
+    margin-top: 150px;
+    white-space: nowrap;
+}
+
+.footer-first-col {}
+
+.footer-logo {}
+
+.footer-social-network {
+    display: flex;
+    margin-top: 25px;
+}
+
+.footer-instagram {}
+
+.footer-facebook {
+    margin-left: 16px;
+}
+
+.footer-twitter {
+    margin-left: 16px;
+}
+
+.footer-resource {
+    margin-left: 160px;
+}
+
+.footer-resource-title {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #22343D;
+}
+
+.footer-resource-list {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: #22343D;
+
+}
+
+.footer-resource-item {}
+
+.footer-stuff {
+    margin-left: 160px;
+}
+
+.footer-stuff-title {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #22343D;
+}
+
+.footer-stuff-list {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: #22343D;
+
+}
+
+.footer-stuff-item {}
+
+.footer-deal {
+    margin-left: 82px;
+}
+
+.footer-deal-title {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #22343D;
+}
+
+.footer-deal-form {
+    margin-top: 34px;
+}
+
+.footer-deal-form input {
+    height: 48px;
+    width: 325px;
+    border: 1px solid #BCD0E5;
+    border-radius: 4px;
+    filter: drop-shadow(0px 1px 2px rgba(0, 0, 0, 0.25));
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #22343D;
+
+}
+
+.footer-deal-btn {
+    display: flex;
+    justify-content: center;
+    width: 175px;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    background-color: #02897A;
+    border: 1px solid #02897A;
+    border-radius: 4px;
+    margin-top: 24px;
+}
+
+.footer-deal-btn a {
+    color: #fff;
+}
+
+.footer-corp {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 46px;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #22343D;
+}

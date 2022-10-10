@@ -1,0 +1,211 @@
+@media(max-device-width:500px) {
+    .hamburger-menu {
+        display: block !important;
+    }
+
+    .menu {
+        display: none !important;
+    }
+
+    .container {
+        margin-left: 32px !important;
+        margin-right: 32px !important;
+        width: 100% !important;
+    }
+
+    /* HEADER LINE */
+    .header-line-text {
+        margin-top: 0 !important;
+    }
+
+    .header-line-img {
+        display: none;
+    }
+
+    .header-line-mini-img {
+        display: block;
+    }
+
+    .card-img {
+        margin-top: 32px !important;
+    }
+
+    .shape {
+        width: 100% !important;
+        background-size: 100% !important;
+        height: 1330px !important;
+    }
+
+    /* PRODUCT */
+    .product-card {
+        grid-template-columns: 1fr !important;
+        text-align: center;
+    }
+
+    .product-btn {
+        margin-left: 130px !important;
+    }
+
+    /* MANAGEMENT&CUSTOMER SUPPORT&COLLABORATIVE */
+    .management-bigImg,
+    .customer-support-bigImg,
+    .collaborative-bigImg {
+        float: none !important;
+        margin-top: 0px !important;
+        margin-right: 0px !important;
+        margin-left: 31px !important;
+
+    }
+
+    .management-bigImg img,
+    .customer-support-bigImg img,
+    .collaborative-bigImg img {
+        width: 350px !important;
+        height: 291.46px !important;
+    }
+
+    .shape-second {
+        width: 100% !important;
+        background-size: 100% !important;
+    }
+
+    /* EASY PROCESS */
+    .easy-process-review {
+        grid-template-columns: 1fr !important;
+        margin-left: 0px !important;
+    }
+
+    .easy-process-review-img img {
+        width: 89px !important;
+        height: 89px !important;
+    }
+
+    .easy-process-second-review,
+    .easy-process-third-review,
+    .easy-process-fourth-review {
+        margin-top: 64px !important;
+    }
+
+    .easy-process-btn {
+        margin-left: 161px !important;
+    }
+
+
+
+    /* STRATEGIES&SLIDER */
+    .strategies-cardholder {
+        animation-name: none !important;
+        margin-left: 0px !important;
+        margin-top: 25px;
+    }
+
+    .strategies-slider {
+        grid-template-columns: 1fr !important;
+    }
+
+    .slider-item {
+        display: grid !important;
+        justify-content: center !important;
+
+    }
+
+    .slider-button {
+        display: none !important;
+    }
+
+    /* PRICE */
+    .price-card {
+        grid-template-columns: auto !important;
+        justify-content: center !important;
+    }
+
+    .price-five-dollars {
+        margin-top: 32px !important;
+    }
+
+    .price-ten-dollars {
+        margin-top: 32px !important;
+    }
+
+    /* CLIENTS SAY */
+    .clients-say-card {
+        grid-template-columns: 1fr !important;
+    }
+
+    .clients-say-cardholder {
+        margin-right: 15px !important;
+    }
+
+    .clients-say-cardholder:nth-child(2),
+    .clients-say-cardholder:nth-child(3) {
+        margin-left: 0 !important;
+        margin-top: 32px !important;
+    }
+
+    /* COMPANIES */
+    .companies-card {
+        width: 371px !important;
+        height: auto !important;
+    }
+
+    .companies-card-text {
+        padding-top: 17px !important;
+        margin-left: 22px !important;
+    }
+
+    .companies-card-btn {
+        margin-left: 111px !important;
+    }
+
+    .companies-card-img {
+        float: none !important;
+        margin-top: 32px !important;
+    }
+
+    .companies-card-img img {
+        width: 351px !important;
+        height: 331px !important;
+    }
+
+    /* FOOTER */
+    .footer {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        justify-content: center !important;
+        text-align: center !important;
+    }
+
+    .footer-logo {
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .footer-social-network {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-resource {
+        margin-left: 0px !important;
+        margin-top: 32px !important;
+    }
+
+    .footer-stuff {
+        margin-top: 32px !important;
+        margin-left: 0px !important;
+    }
+
+    .footer-deal {
+        margin-top: 32px !important;
+        margin-left: 0px !important;
+    }
+
+    .footer-deal-btn {
+        margin-left: 140px;
+    }
+
+    .footer-corp {
+        margin-top: 44px !important;
+    }
+
+}

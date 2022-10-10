@@ -1,0 +1,264 @@
+.main {}
+
+/* GREAT BUSINES */
+.great-business {
+    margin-top: 77px;
+}
+
+.great-business-subtitle {
+    margin-top: 24px;
+}
+
+.great-business-form {
+    margin-top: 24px;
+}
+
+.great-business-form input[type="email"] {
+    width: 469.45px;
+    height: 66px;
+    border: 1px solid #EAEAEA;
+    border-radius: 100px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: -0.03em;
+    color: #22343D;
+    padding-left: 27px;
+}
+
+.great-business-form input[type="button"] {
+    width: 117.12px;
+    height: 50px;
+    margin-left: -130px;
+    background: #02897A;
+    border: 1px solid #02897A;
+    border-radius: 100px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 0px;
+    color: #fff
+}
+
+.people-join {
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.people-join-text {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #22343D;
+    margin-left: 9px;
+}
+
+.gread-business-img {
+    float: right;
+    margin-top: -415px;
+}
+
+#great-business-small {
+    display: none;
+}
+
+/* LATEST-STORIES */
+.latest-stories {
+    margin-top: 160px;
+}
+
+.latest-stories-text {
+    text-align: center;
+}
+
+.latest-stories-title {}
+
+.latest-stories-subtitle {
+    margin-top: 8px;
+}
+
+.latest-stories-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-top: 32px;
+}
+
+.latest-stories-cardholder {
+    height: 400px;
+    width: 348px;
+    border-radius: 8px;
+    border: 1px solid rgba(222, 222, 222, 1)
+}
+
+.latest-stories-cardholder:nth-child(4),
+.latest-stories-cardholder:nth-child(5),
+.latest-stories-cardholder:nth-child(6) {
+    margin-top: 32px;
+}
+
+.latest-stories-card-img {}
+
+.latest-stories-card-data {
+    margin-left: 24px;
+    margin-top: 24px;
+}
+
+.latest-stories-card-title {
+    white-space: nowrap;
+    font-size: 24px;
+    margin-left: 24px;
+    margin-top: 12px;
+}
+
+.latest-stories-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 32px;
+}
+
+.latest-stories-btn a {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color: #22343D;
+}
+
+.latest-stories-btn img {
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+}
+
+/* CONTACT US */
+.contact-us {
+    margin-top: 150px;
+}
+
+.contact-us-text {
+    text-align: center;
+}
+
+.contact-us-title {}
+
+.contact-us-subtitle {
+    margin-top: 7px;
+}
+
+.contact-us-socialnetwork {
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+}
+
+.contact-us-instagram {}
+
+.contact-us-facebook {
+    margin-left: 21px;
+}
+
+.contact-us-twitter {
+    margin-left: 21px;
+}
+
+.contact-us-map {
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+}
+
+#small-map {
+    display: none;
+}
+
+/* SEND MESSAGE */
+.send-message {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.send-message-wrapper {
+    padding: 50px 50px;
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 20px;
+}
+
+.send-message-text {
+    text-align: center;
+}
+
+.send-message-title {}
+
+.send-message-form {
+    display: grid;
+    margin-top: 45px;
+}
+
+.send-message-form input[type="text"] {
+    padding-left: 20px;
+    width: 768px;
+    height: 54px;
+    background: #F5F5F5;
+    border: 1px solid #E8E8E8;
+    border-radius: 39px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #22343D;
+}
+
+.send-message-form input[type="email"] {
+    padding-left: 20px;
+    margin-top: 45px;
+    width: 768px;
+    height: 54px;
+    background: #F5F5F5;
+    border: 1px solid #E8E8E8;
+    border-radius: 39px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #22343D;
+}
+
+.send-message-form textarea {
+    resize: none;
+    margin-top: 45px;
+    padding: 20px 0px 0px 20px;
+    width: 768px;
+    height: 193px;
+    background: #F5F5F5;
+    border: 1px solid #E8E8E8;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+    color: #22343D;
+}
+
+.send-message-form input[type="button"] {
+    width: 117.12px;
+    height: 50px;
+    margin-left: 68px;
+    margin-top: 45px;
+    background: #02897A;
+    border: 1px solid #02897A;
+    border-radius: 100px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 0px;
+    color: #fff
+}

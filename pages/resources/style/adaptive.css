@@ -1,0 +1,140 @@
+@media(max-device-width:500px) {
+    .hamburger-menu {
+        display: block !important;
+    }
+
+    .menu {
+        display: none !important;
+    }
+
+    .container {
+        margin-left: 32px !important;
+        margin-right: 32px !important;
+        width: 100% !important;
+    }
+
+    /* GREAT BUSINESS */
+    .great-business {
+        margin-top: 77px;
+    }
+
+    .great-business-text {
+        text-align: center !important;
+    }
+
+    .great-business-title {}
+
+    .great-business-subtitle {}
+
+    .great-business-form {
+        text-align: center;
+    }
+
+    .great-business-form input[type="email"] {
+        width: 346px !important;
+        height: 66px !important;
+    }
+
+    .great-business-form input[type="button"] {}
+
+    .people-join {
+        justify-content: center;
+    }
+
+    .gread-business-img {
+        float: none !important;
+        margin-top: 87px !important;
+    }
+
+    .gread-business-img img:nth-child(1) {
+        display: none !important;
+    }
+
+    #great-business-small {
+        display: block !important;
+        margin-left: 55px;
+    }
+
+    /* LATEST STORIES */
+    .latest-stories-card {
+        grid-template-columns: 1fr !important;
+        margin-left: 32px !important;
+
+    }
+
+    .latest-stories-cardholder {
+        margin-top: 32px !important;
+    }
+
+    /* CONTACT US */
+    #standart-map {
+        display: none;
+    }
+
+    #small-map {
+        display: flex !important;
+        justify-content: center;
+    }
+
+    /* SEND MESSAGE */
+    .send-message-form input[type="text"] {
+        width: 344px !important;
+        height: 54px !important;
+    }
+
+    .send-message-form input[type="email"] {
+        width: 344px !important;
+        height: 54px !important;
+    }
+
+    .send-message-form textarea {
+        width: 344px !important;
+        height: 193px !important;
+    }
+
+    .send-message-form input[type="button"] {
+        margin-left: 0 !important;
+    }
+
+    /* FOOTER */
+    .footer {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        justify-content: center !important;
+        text-align: center !important;
+    }
+
+    .footer-logo {
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .footer-social-network {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-resource {
+        margin-left: 0px !important;
+        margin-top: 32px !important;
+    }
+
+    .footer-stuff {
+        margin-top: 32px !important;
+        margin-left: 0px !important;
+    }
+
+
+    .footer-deal {
+        margin-top: 32px !important;
+        margin-left: 0px !important;
+    }
+
+    .footer-deal-btn {
+        margin-left: 140px;
+    }
+
+    .footer-corp {
+        margin-top: 44px !important;
+    }
+}

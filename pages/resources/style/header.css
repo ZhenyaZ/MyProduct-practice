@@ -1,0 +1,69 @@
+.header {}
+
+.logo {
+    margin-top: 19px;
+}
+
+.menu {
+    display: flex;
+    margin-left: 415px;
+    margin-top: -36px;
+}
+
+.menu-item {
+    margin-left: 20px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #22343D;
+}
+
+.menu-item:nth-child(4) {
+    font-weight: 600;
+}
+
+#menu-item-first {
+    margin-left: 0px;
+}
+
+.nav-buttons {
+    display: flex;
+    margin-left: 24px;
+}
+
+.btn-sign-in {
+    margin-top: -8px;
+    padding: 10px 22px 9px 25px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #22343D;
+    border: 1px solid #BCD0E5;
+    border-radius: 4px;
+
+}
+
+.btn-sign-up {
+    margin-left: 24px;
+    margin-top: -8px;
+    padding: 10px 22px 9px 25px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    background-color: #02897A;
+    border: 1px solid #02897A;
+    border-radius: 4px;
+}
+
+.btn-sign-up a {
+    color: white;
+}
+
+.switcher-nav {
+    margin-left: 24px;
+}
